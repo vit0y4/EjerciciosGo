@@ -16,8 +16,10 @@ func twoSum(nums []int, target int) []int {
 }
 
 func main() {
+	// Dado un array, encuentre si existen
+	// dos elementos que sumados den como resultados
+	// un entero tambien dado
 	array := []int{2, 5, 5, 11}
 	fmt.Println(array)
 	fmt.Println(twoSum(array, 10))
-
 }
