@@ -1,0 +1,2 @@
+# EjerciciosGo
+ Easy LeetCode
